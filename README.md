@@ -4,7 +4,7 @@ This static website serves as a platform for fans to explore and engage with Ali
 
 ## 📷 UI Preview
 
-**Live Site:** [https://saradotdev.github.io/Musician-Website/](https://saradotdev.github.io/Musician-Website/)
+🌐 **Live Site:** [https://saradotdev.github.io/Musician-Website/](https://saradotdev.github.io/Musician-Website/)
 
 ### 🏠 Home
 ![Home](./screenshots/home.png)
