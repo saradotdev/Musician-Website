@@ -10,7 +10,7 @@ This static website serves as a platform for fans to explore and engage with Ali
 ![Home](./screenshots/home.png)
 
 ### 🏪 Store
-![Store](./screenshots/store.jpg)
+![Store](./screenshots/store.png)
 
 ### 📝 About
 ![About](./screenshots/about.png)
